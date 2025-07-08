@@ -1,0 +1,1 @@
+# Add configuration details here (API keys, email credentials, etc.)
