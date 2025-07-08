@@ -10,6 +10,3 @@ Run `app.py` and enter a vulnerability query (e.g., "Check vulnerability CVE-202
 - OpenAI GPT API (Function calling)
 - Trello API (Simulated)
 - SMTP Email Sending
-
-## Author
-Your Name
